@@ -1,5 +1,8 @@
 # icrc1-types
 
+[![mops](https://oknww-riaaa-aaaam-qaf6a-cai.raw.ic0.app/badge/mops/icrc1-types)](https://mops.one/icrc1-types)
+[![documentation](https://oknww-riaaa-aaaam-qaf6a-cai.raw.ic0.app/badge/documentation/icrc1-types)](https://mops.one/icrc1-types/docs)
+
 [ICRC-1](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-1) canister interface for Motoko.
 
 ## Install
