@@ -1,6 +1,5 @@
 module {
 	public type Account = { owner : Principal; subaccount : ?Subaccount };
-	public type Duration = Nat64;
 	public type Subaccount = Blob;
 	public type Timestamp = Nat64;
 	public type TransferArgs = {

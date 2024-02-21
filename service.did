@@ -3,9 +3,6 @@
 // Number of nanoseconds since the UNIX epoch in UTC timezone.
 type Timestamp = nat64;
 
-// Number of nanoseconds between two [Timestamp]s.
-type Duration = nat64;
-
 type Subaccount = blob;
 
 type Account = record {
